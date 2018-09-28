@@ -1,3 +1,19 @@
+body {
+  margin: 0;
+  height: 0;
+  padding: 0;
+}
+
+.thumbnail img {
+  width:100%;
+}
+
+.thumbnail .caption-full {
+  padding: 9px; 
+}
+
+
+/*
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -621,4 +637,4 @@ pre tt:after {
   html {
     font-size: 100%;
   }
-}
+} */ 

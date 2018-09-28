@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Ecom Using Gatsby',
+    title: 'Home Rent',
   },
   plugins: [
     {
@@ -8,8 +8,8 @@ module.exports = {
       options: {
         spaceId: 'ct25eqkvvjm3',
         accessToken:
-          '8951f4ce95af9751680830365bd42d79c677916e71d065ace4cbed33fa44313a'
-      }
+          '8951f4ce95af9751680830365bd42d79c677916e71d065ace4cbed33fa44313a',
+      },
     },
     'gatsby-plugin-react-helmet',
     {
